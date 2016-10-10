@@ -13,3 +13,5 @@ Player chooses a word
 	If player word = Secret word
 Loop
 Print “ You win “
+
+![Flowchart](IMG_1497.jpg)
